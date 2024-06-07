@@ -49,7 +49,7 @@ Inicie a aplicação Spring Boot:
 ```
 A aplicação estará disponível em http://localhost:8080.
 
-##Endpoints da API
+## Endpoints da API
 Abaixo estão os endpoints disponíveis para o gerenciamento de funcionários e suas informações associadas.
 
 Funcionario
