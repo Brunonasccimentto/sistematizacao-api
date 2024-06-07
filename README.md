@@ -3,17 +3,16 @@ Este projeto é uma aplicação Spring Boot para gerenciamento de funcionários,
 
 Índice
 - [Pré-requisitos](#Pré-requisitos)
-- [Clonar e Configurar o Projeto](#Copiar-código)
+- [Clonar e Configurar o Projeto](#Clonar-e-Configurar-o-Projeto)
 - [Executar a Aplicação](#Executar-a-aplicação)
 - [Endpoints da API](#Endpoints-da-API)
 
 ## Pré-requisitos
 Antes de começar, verifique se você tem os seguintes softwares instalados em sua máquina:
 
-JDK 11 ou superior: Download JDK
-Maven: Download Maven
-Git: Download Git
-PostgreSQL: Download PostgreSQL
+- JDK 11 ou superior
+- Maven
+- PostgreSQL
 
 ## Clonar e Configurar o Projeto
 1. Clone o repositório:
