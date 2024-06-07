@@ -7,7 +7,7 @@ Este projeto é uma aplicação Spring Boot para gerenciamento de funcionários,
 - [Executar a Aplicação](#Executar-a-aplicação)
 - [Endpoints da API](#Endpoints-da-API)
 
-##Pré-requisitos
+## Pré-requisitos
 Antes de começar, verifique se você tem os seguintes softwares instalados em sua máquina:
 
 JDK 11 ou superior: Download JDK
@@ -15,7 +15,7 @@ Maven: Download Maven
 Git: Download Git
 PostgreSQL: Download PostgreSQL
 
-##Clonar e Configurar o Projeto
+## Clonar e Configurar o Projeto
 1. Clone o repositório:
 ```bash
 git clone https://github.com/seu-usuario/seu-repositorio.git
@@ -41,7 +41,7 @@ spring.jpa.hibernate.ddl-auto=update
 ./mvnw clean install
 ```
 
-##Executar a Aplicação
+## Executar a Aplicação
 Inicie a aplicação Spring Boot:
 
 ```bash
